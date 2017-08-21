@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MybatisTest"
+  id="myeclipse.1498374375765"
+  context-root="/MybatisTest"
+  j2ee-spec="5.0"
+  archive="MybatisTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="resources" />
+  </attributes>
+</project-module>
+
